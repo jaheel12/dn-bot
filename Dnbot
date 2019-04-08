@@ -1,7 +1,7 @@
 Request URL: https://discordapp.com/api/webhooks/564908620660211743/oZywRPLQh4EvmP86KOyBW5FlU_ecxpB40_hxn9b0Cg_hpzNDrw3ylKST1zk_iCMR1aDE/github
 Request method: POST
 content-type: application/json
-Expect: 
+Expect: https://sea.dragonnest.com/news/notice/all
 User-Agent: GitHub-Hookshot/a3b86d4
 X-GitHub-Delivery: 9bfc9b10-5a44-11e9-897b-f3e998805218
 X-GitHub-Event: ping
@@ -13,7 +13,7 @@ X-GitHub-Event: ping
     "id": 100724979,
     "name": "web",
     "active": true,
-    "events": [https://sea.dragonnest.com/news/notice/all
+    "events": [
       "push"
     ],
     "config": {
