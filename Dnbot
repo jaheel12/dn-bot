@@ -3,7 +3,7 @@ Request method: POST
 content-type: application/json
 Expect: 
 User-Agent: GitHub-Hookshot/a3b86d4
-X-GitHub-Delivery: 9bfc9b10-5a44-11e9-897b-f3e998805218
+X-GitHub-Delivery: https://sea.dragonnest.com/news/notice/all
 X-GitHub-Event: ping
 {
   "zen": "Half measures are as bad as nothing at all.",
